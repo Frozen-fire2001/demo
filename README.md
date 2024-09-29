@@ -1,2 +1,1 @@
-# repository_test
-cousera test repository
+# demo projects
